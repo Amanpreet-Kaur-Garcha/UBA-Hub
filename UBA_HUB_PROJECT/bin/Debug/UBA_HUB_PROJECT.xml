@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UBA_HUB_PROJECT
+</name>
+</assembly>
+<members>
+<member name="T:UBA_HUB_PROJECT.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Delhi_OrgTeam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.gandhi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Jayate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.MCM_Logo_OrgTeam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Modi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Organizing_Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Village_Coordinator_Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UBA_HUB_PROJECT.My.Resources.Resources.Written_Header">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSet.UBA_Drives_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSet.UBA_Drives_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSet.UBA_Drives_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.UBA_Drives_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(UBA_HUB_PROJECT.UBA_DtbseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(UBA_HUB_PROJECT.UBA_DtbseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(UBA_HUB_PROJECT.UBA_DtbseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.UpdateAll(UBA_HUB_PROJECT.UBA_DtbseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UBA_HUB_PROJECT.UBA_DtbseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
