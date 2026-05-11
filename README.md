@@ -63,16 +63,16 @@ The system uses MS Access (.accdb) as the backend database for storing:
 - Maintaining data consistency across modules
 
 ## Screenshots
-Dashboard:
+### Dashboard:
 <img width="573" height="434" alt="HomePageUBA_HUB" src="https://github.com/user-attachments/assets/3e8fda0e-bc8e-4f38-a27a-5ba344416e2f" />
 
-Coordinator Form:
+### Coordinator Form:
 <img width="570" height="536" alt="VC_DataEntryInForm" src="https://github.com/user-attachments/assets/64357ad3-cc5d-4bc3-ad46-89a8a9b79da3" />
 
-Activities Form:
+### Activities Form:
 <img width="568" height="540" alt="ACT_FilledDetailsALL" src="https://github.com/user-attachments/assets/e415fa3c-2f0b-492b-9cb0-7f3e20f04b32" />
 
-Crystal Report Preview:
+### Crystal Report Preview:
 <img width="610" height="790" alt="image" src="https://github.com/user-attachments/assets/10fc1c19-cb8e-4ed7-b5e3-946e76eeea22" />
 <img width="614" height="792" alt="image" src="https://github.com/user-attachments/assets/fab6d0ca-f00f-45db-b2b3-4de6d26bdb18" />
 <img width="610" height="793" alt="image" src="https://github.com/user-attachments/assets/5ea738c5-15b8-4ba4-8c13-f704c5de29ef" />
