@@ -80,4 +80,4 @@ Crystal Report Preview:
 ## How to Run
 1. Open the project in Visual Studio 2015
 2. Configure the MS Access database path
-3. Build and run the application
+3. Build and run the application (UBA_HUB_PROJECT.sln)
